@@ -1,4 +1,4 @@
-  ~ 👋Hi There! I’m Marwan ~
+  ## 👋Hi There! I’m ~Marwan~
 
 -I’m a student passionate about technology, creativity, and problem-solving. I enjoy working on programs, web development, and game design, alongside both fiction and non-fiction writing. What excites me most is building projects that push me to learn new skills and explore fresh ideas.
 
