@@ -45,8 +45,7 @@
 
 Explore my work on GitHub! Here are some highlights:
 
-- **[Project Name 1]**: A brief description of a standout project (replace with a real project)
-- **[Project Name 2]**: A brief description of another cool project (replace with a real project)
+- **PyUninstallx**: A powerful tool for windows11/win10/win8.1/win8
 
 ---
 
