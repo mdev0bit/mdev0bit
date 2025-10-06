@@ -6,11 +6,11 @@
   
   *🔒 Interested in cybersecurity, operating system development, and blockchain technology
     
-    *🎨 Skilled in design with creative hobbies like drawing, writing, and story crafting
+   *🎨 Skilled in design with creative hobbies like drawing, writing, and story crafting
       
-      *📚 Fascinated by science, history, and philosophy
+  *📚 Fascinated by science, history, and philosophy
         
-        *🚴Outside of coding, I enjoy cycling, weightlifting, and yoga
+*🚴Outside of coding, I enjoy cycling, weightlifting, and yoga
 
 *🌱 I’m focused on learning, experimenting, and building projects to grow my portfolio.
 
